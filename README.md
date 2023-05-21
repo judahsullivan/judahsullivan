@@ -1,5 +1,5 @@
 ## 👋 Hey there! Im Judah
-### Full Stack Developer | UI DEVELOPER
+### Full Stack Developer | UI Developer
 ### [My Portfolio](https://devjbyrd.com)
 
 #### I'm a front-end engineer with a passion for design, specializing in using React to build beautiful and functional user interfaces. 🔍 With a keen eye for detail and a deep understanding of user experience, I take pride in creating high-quality web applications that are both visually stunning and easy to use.
