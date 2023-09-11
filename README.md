@@ -19,6 +19,16 @@
 - Chakra-UI | Sass | Tailwindcss | Styled Components | Emotion Styled
 <h4>Cloud and Hosting Services:</h4>
 - Vercel | Netlify | Hostinger | GoDaddy
+<hr/>
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p>
+<a href="https://dev.to/judahsullivan"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>  
+<a href="https://www.linkedin.com/in/judahsullivan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
+<a href="mailto:judahsullivan.dev"><img alt="Email" src="https://img.shields.io/badge/judahsullivan.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
 
 <hr />
 
@@ -31,14 +41,6 @@
 
 </div>
 
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p>
-<a href="https://dev.to/judahsullivan"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>  
-<a href="https://www.linkedin.com/in/judahsullivan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
-<a href="mailto:judahsullivan.dev"><img alt="Email" src="https://img.shields.io/badge/judahsullivan.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
 
 
 
