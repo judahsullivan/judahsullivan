@@ -21,9 +21,10 @@
 - Vercel | Netlify | Hostinger | GoDaddy
 
 <hr />
-<h3 align="center"> My Stats </h3>
 
-<div>
+<div align="center">
+<h3 > My Stats </h3>
+
  
  [![Judah's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=judahsullivan&)](https://github.com/judahsullivan)
  [![Judah's Stats](https://github-readme-stats.vercel.app/api?username=judahsullivan&show_icons=true)](https://github.com/judahsullivan)
