@@ -20,9 +20,15 @@
 <h4>Cloud and Hosting Services:</h4>
 - Vercel | Netlify | Hostinger | GoDaddy
 
+<hr />
+<h3 align="center"> My Stats </h3>
 
-[![Judah's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=judahsullivan&)](https://github.com/judahsullivan)
-[![Judah's Stats](https://github-readme-stats.vercel.app/api?username=judahsullivan&show_icons=true)](https://github.com/judahsullivan)
+<div>
+ 
+ [![Judah's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=judahsullivan&)](https://github.com/judahsullivan)
+ [![Judah's Stats](https://github-readme-stats.vercel.app/api?username=judahsullivan&show_icons=true)](https://github.com/judahsullivan)
+
+</div>
 
 
 <h3> 🤝🏻 Connect with Me </h3>
