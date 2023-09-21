@@ -1,7 +1,9 @@
 <h1>👋 Hey there! Im Judah</h1>
 
 <h2> Full Stack Developer | UI Developer </h2>
-<h3>New Portfolio-Blog is coming soon!</h3>
+ 
+
+
 
  I'm a Full-Stack Engineer with a passion for design, specializing in using React to build beautiful and functional user interfaces. 🔍 With a keen eye for detail and a deep understanding of user experience, I take pride in creating high-quality and complex web applications that are both visually stunning and easy to use.
 
