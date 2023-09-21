@@ -63,6 +63,14 @@
   </p>
 </div>
 
+
+  
+  <h3>My Daily Technologies</h3>
+   <p>
+    <img src="https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=Neovim&logoColor=white" alt="Neovim" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" alt="Ubuntu" />
+   </p>
+
 <h3 align="center">Connect with Me 🤝🏻</h3>
 
 <p align="center">
