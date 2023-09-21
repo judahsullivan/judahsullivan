@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB" />
     <img src="https://img.shields.io/badge/Contentful-2478CC.svg?style=for-the-badge&logo=Contentful&logoColor=white" alt="Contentful" />
   </p>
-</div>
+
 
 
   
@@ -70,6 +70,7 @@
     <img src="https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=Neovim&logoColor=white" alt="Neovim" />
     <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white" alt="Ubuntu" />
    </p>
+</div>
 
 <h3 align="center">Connect with Me 🤝🏻</h3>
 
