@@ -35,16 +35,9 @@
 <div align="center">
 <h3 > My Stats </h3>
 
-
-6. **GitHub Contributions (Last Commit)**:
-   ![Contributions](https://img.shields.io/github/last-commit/judahsullivan/your-repository)
-
-7. **GitHub Trophies**:
-   [![trophy](https://github-profile-trophy.vercel.app/?username=judahsullivan)](https://github.com/judahsullivan)
-
-8. **Languages Used**:
-   ![Languages](https://img.shields.io/github/languages/count/judahsullivan/your-repository)
-
+![Judahsullivan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Judahsullivan&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![Judahsullivan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Judahsullivan&theme=tokyonight&hide_border=false)
+![Judahsullivan's Stats](https://github-readme-stats.vercel.app/api?username=Judahsullivan&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 </div>
 
