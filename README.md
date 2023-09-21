@@ -35,7 +35,17 @@
 <div align="center">
 <h3 > My Stats </h3>
 
- 
+
+6. **GitHub Contributions (Last Commit)**:
+   ![Contributions](https://img.shields.io/github/last-commit/judahsullivan/your-repository)
+
+7. **GitHub Trophies**:
+   [![trophy](https://github-profile-trophy.vercel.app/?username=judahsullivan)](https://github.com/judahsullivan)
+
+8. **Languages Used**:
+   ![Languages](https://img.shields.io/github/languages/count/judahsullivan/your-repository)
+
+
 </div>
 
 
