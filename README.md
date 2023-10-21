@@ -1,9 +1,6 @@
 <div align="center">
   <h1>👋 Hey there! I'm Judah</h1>
 
-<div>
-  <img src="https://raw.githubusercontent.com/judahsullivan/judah-sullivan.dev/main/public/homescreen.png" alt="Portfolio image" width='900px' height='400px' />
-</div>
 
   <p>
     Front End Certification from
@@ -87,5 +84,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judahsullivan&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Judahsullivan&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=Judahsullivan&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/judahsullivan)
 </div>
 ```
